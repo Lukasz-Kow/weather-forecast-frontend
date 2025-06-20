@@ -16,18 +16,6 @@ The app is already deployed and ready to use at:
 
 Just visit the link and it'll automatically detect your location to show the weather forecast.
 
-## Running locally
-
-If you want to run it on your machine:
-
-```bash
-git clone https://github.com/Lukasz-Kow/weather-forecast-frontend.git
-cd weather-forecast-frontend
-docker-compose up -d
-```
-
-Then open http://localhost:8000
-
 ## Tech stuff
 
 - Frontend connects to a backend API that uses Open-Meteo weather service
